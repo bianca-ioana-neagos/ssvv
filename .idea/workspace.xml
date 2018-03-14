@@ -2,74 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="124fb60d-9b4b-4ab8-8458-26bf0f82c1d8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Info-Jenkins.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Info-Maven.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Info-Testlink.pdf" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Lab02-files/2018_SSVV_AssignmentLab02.pdf" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Lab02-files/Lab02_BBT_Form.xls" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/externalDependencies.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/MaxPointsParticipants.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/main/java/MaxPointsParticipantsMV/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/main/java/MaxPointsParticipantsMV/FileParticipants.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/main/java/MaxPointsParticipantsMV/controller/ParticipantController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/main/java/MaxPointsParticipantsMV/model/Participant.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/main/java/MaxPointsParticipantsMV/repository/Repository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/main/java/MaxPointsParticipantsMV/ui/ParticipantUI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/AppTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/AppTestWBT.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/FileParticipants99Points.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxAll.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxConditionsS3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxLoop1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxLoop2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxOne.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxPath1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxStatements.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/MaxPointsParticipants-1.0-SNAPSHOT.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/classes/MaxPointsParticipantsMV/App.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/classes/MaxPointsParticipantsMV/controller/ParticipantController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/classes/MaxPointsParticipantsMV/model/Participant.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/classes/MaxPointsParticipantsMV/repository/Repository.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/classes/MaxPointsParticipantsMV/ui/ParticipantUI.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/maven-archiver/pom.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/surefire-reports/MaxPointsParticipantsMV.AppTest.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/surefire-reports/TEST-MaxPointsParticipantsMV.AppTest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/test-classes/MaxPointsParticipantsMV/AppTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/test-classes/MaxPointsParticipantsMV/AppTestWBT.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/test-classes/MaxPointsParticipantsMV/FileParticipantsMaxConditionsS3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/test-classes/MaxPointsParticipantsMV/FileParticipantsMaxLoop1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/test-classes/MaxPointsParticipantsMV/FileParticipantsMaxLoop2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/test-classes/MaxPointsParticipantsMV/FileParticipantsMaxPath1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants/target/test-classes/MaxPointsParticipantsMV/FileParticipantsMaxStatements.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lecture03_WBT_example_MaxPointsParticipants/MaxPointsParticipants_TestCases_WBT.xlsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/.classpath" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/.project" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/.settings/org.eclipse.jdt.core.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/PrjFractionJUnit3.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/bin/App.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/bin/Fraction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/bin/FractionTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/src/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/src/Fraction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit3/src/FractionTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PrjFractionJUnit4.zip" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" />
@@ -77,12 +11,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/maven-test-support-plugin-0.0.21.jar" />
       <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../StudentsLaboratories/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../StudentsLaboratories/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../StudentsLaboratories/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../StudentsLaboratories/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../StudentsLaboratories/StudentsLaboratories.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../StudentsLaboratories/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/controller/ControllerTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Tutorial-JUnit.pdf" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -117,18 +46,18 @@
       <file leaf-file-name="UI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ui/UI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
+            <state relative-caret-position="0">
               <caret line="125" column="34" lean-forward="false" selection-start-line="125" selection-start-column="34" selection-end-line="125" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="laboratories.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laboratories.txt">
+      <file leaf-file-name="students.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/students.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,18 +66,8 @@
       <file leaf-file-name="FileDataPersistence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/repository/FileDataPersistence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="students.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/students.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="173">
+              <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,51 +76,28 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/controller/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="85" column="13" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-              <folding>
-                <element signature="e#2466#2475#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="345">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="autorefresh.png" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/maven-test-support-plugin-0.0.21.jar!/icons/autorefresh.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="showResultsAction.png" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/maven-test-support-plugin-0.0.21.jar!/icons/showResultsAction.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="showResultsAction@2x.png" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/maven-test-support-plugin-0.0.21.jar!/icons/showResultsAction@2x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="ControllerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/controller/ControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Validator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/validator/Validator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="334">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -213,6 +109,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -235,7 +132,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/laboratories.txt" />
-        <option value="$PROJECT_DIR$/students.txt" />
         <option value="$PROJECT_DIR$/src/controller/StudentController.java" />
         <option value="$PROJECT_DIR$/src/controller/LaboratoriesController.java" />
         <option value="$PROJECT_DIR$/src/App.java" />
@@ -244,6 +140,11 @@
         <option value="$PROJECT_DIR$/src/ui/UI.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/test/java/model/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/validator/ValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/validator/Validator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/controller/ControllerTest.java" />
+        <option value="$PROJECT_DIR$/students.txt" />
       </list>
     </option>
   </component>
@@ -267,15 +168,19 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="StudentsLaboratories" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2391" />
-    <option name="y" value="-9" />
-    <option name="width" value="1618" />
-    <option name="height" value="1261" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -293,10 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,12 +214,76 @@
               <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
               <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prj_2_StudentsLaboratories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prj_2_StudentsLaboratories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,13 +291,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PrjFractionJUnit3" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="controller" />
+      <recent name="validator" />
+      <recent name="model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -346,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ControllerTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -380,6 +356,81 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Prj_2_StudentsLaboratories" />
       <envs />
+    </configuration>
+    <configuration name="ControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Prj_2_StudentsLaboratories" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.ControllerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ControllerTest.saveStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Prj_2_StudentsLaboratories" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.ControllerTest" />
+      <option name="METHOD_NAME" value="saveStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Prj_2_StudentsLaboratories" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.StudentTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -441,6 +492,19 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.prj2" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.StudentTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ControllerTest.saveStudent" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ControllerTest.saveStudent" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.StudentTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -462,7 +526,8 @@
       <workItem from="1520155274905" duration="1867000" />
       <workItem from="1520680129314" duration="6372000" />
       <workItem from="1520963896144" duration="50000" />
-      <workItem from="1520964119490" duration="5067000" />
+      <workItem from="1520964119490" duration="5639000" />
+      <workItem from="1521015086822" duration="3697000" />
     </task>
     <task id="LOCAL-00001" summary="added maven">
       <created>1520967319330</created>
@@ -488,8 +553,40 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 07m 56s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 08m 03s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 09m 02s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 10m 31s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 11m 14s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 12m 09s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 12m 22s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 12m 32s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 13m 15s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2018.03.14 at 11h 14m 52s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22174000" />
+    <option name="totallyTimeSpent" value="26443000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -501,7 +598,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2391" y="-9" width="1618" height="1261" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -510,13 +608,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11997406" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="2400" y="29" width="1600" height="1214" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24777777" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="29" width="1920" height="1013" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25032425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17293233" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -565,38 +663,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ui/UI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2625">
-          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laboratories.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/students.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repository/FileDataPersistence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2750">
-          <caret line="129" column="45" lean-forward="false" selection-start-line="129" selection-start-column="45" selection-end-line="129" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -617,9 +683,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="e#2466#2475#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -627,13 +691,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#624#625#0" expanded="false" />
-            <element signature="e#652#653#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -689,9 +747,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="e#2466#2475#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -699,13 +755,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#624#625#0" expanded="false" />
-            <element signature="e#652#653#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -720,13 +770,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#624#625#0" expanded="false" />
-            <element signature="e#652#653#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -774,9 +818,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="e#2466#2475#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -823,13 +865,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#624#625#0" expanded="false" />
-            <element signature="e#652#653#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -876,13 +912,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#624#625#0" expanded="false" />
-            <element signature="e#652#653#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -910,40 +940,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#624#625#0" expanded="false" />
-            <element signature="e#652#653#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/validator/Validator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laboratories.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repository/FileDataPersistence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -958,41 +958,95 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="125" column="34" lean-forward="false" selection-start-line="125" selection-start-column="34" selection-end-line="125" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GroupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/model/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/validator/ValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/maven-test-support-plugin-0.0.21.jar!/icons/showResultsAction@2x.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/Controller.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="85" column="13" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-          <folding>
-            <element signature="e#2466#2475#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="325">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ui/UI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/validator/Validator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="125" column="34" lean-forward="false" selection-start-line="125" selection-start-column="34" selection-end-line="125" selection-end-column="34" />
+        <state relative-caret-position="334">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repository/FileDataPersistence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/controller/ControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/students.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
