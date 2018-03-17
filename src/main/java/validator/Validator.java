@@ -11,7 +11,7 @@ public class Validator {
         if(!student.getRegNumber().matches("[a-zA-Z]{4}[\\d]{4}")){
             return false;
         }
-        if (!student.getName().matches("[a-zA-Z]+[\\s]?[a-zA-Z]+")) {
+        if (!student.getName().matches("[a-zA-Z]+[\\s][a-zA-Z]+")) {
             return false;
         }
         if(student.getGroup() >= 901 || student.getGroup() <= 99){

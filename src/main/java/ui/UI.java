@@ -27,7 +27,7 @@ public class UI {
 
         String cmdM = "";
         do {
-            System.out.println(" 1) Add student \n 2) Add Laboratory \n 3) Add grade \n 4) Get passing students \n 0) Exit \n");
+            System.out.println(" 1) Add student \n 2) Add Laboratory \n 3) Add grade \n 4) Get passing students \n 5) Get all students \n 0) Exit \n");
             cmdM = s.nextLine();
             switch (cmdM) {
                 case "1":
@@ -41,6 +41,9 @@ public class UI {
                     break;
                 case "4":
                     getPassingStudents();
+                    break;
+                case "5":
+                    getAllStudents();
                     break;
             }
         }while(!cmdM.equals("0"));
@@ -58,7 +61,7 @@ public class UI {
         System.out.print("Name: ");
         name = br.readLine();
         try {
-            System.out.print("Group number(between 100 and 999): ");
+            System.out.print("Group number(between 100 and 900): ");
             String groupString = br.readLine();
             group = Integer.parseInt(groupString);
         } catch (NumberFormatException e) {
@@ -138,6 +141,14 @@ public class UI {
             }
         } catch (ParseException e) {
             System.out.println("Could not get passing students");
+        }
+    }
+
+    void getAllStudents() throws IOException {
+        List<Student> students = controller.getStudentPersistence().getStudentsList();
+        System.out.println("All students: ");
+        for (Student student : students) {
+            System.out.println("\t - " + student.toString());
         }
     }
 } 

@@ -23,6 +23,22 @@ public class Controller {
     	this.laboratoryPersistence = new FileDataPersistence(laboratoryFile);
     }
 
+    public FileDataPersistence getStudentPersistence() {
+        return studentPersistence;
+    }
+
+    public void setStudentPersistence(FileDataPersistence studentPersistence) {
+        this.studentPersistence = studentPersistence;
+    }
+
+    public FileDataPersistence getLaboratoryPersistence() {
+        return laboratoryPersistence;
+    }
+
+    public void setLaboratoryPersistence(FileDataPersistence laboratoryPersistence) {
+        this.laboratoryPersistence = laboratoryPersistence;
+    }
+
     public boolean findOne(List<Student> students, String regNumber){
         boolean found = false;
         for (Student s: students) {
