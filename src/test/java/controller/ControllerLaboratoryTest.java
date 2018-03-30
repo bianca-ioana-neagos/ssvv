@@ -31,6 +31,9 @@ public class ControllerLaboratoryTest {
     @Test
     public void saveLab() throws IOException {
         assertTrue(ctrl.saveLaboratory(l1));
+    }
+    @Test
+    public void saveLab_2() throws IOException {
         assertFalse(ctrl.saveLaboratory(l2));
     }
 }

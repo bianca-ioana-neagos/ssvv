@@ -42,25 +42,55 @@ public class ControllerTest {
     @Test
     public void saveStudent() throws IOException {
         assertTrue(ctrl.saveStudent(s1));
+    }
+    @Test
+    public void saveStudent_2() throws IOException {
         assertFalse(ctrl.saveStudent(s2));
+    }
+    @Test
+    public void saveStudent_3() throws IOException {
         assertFalse(ctrl.saveStudent(s3));
+    }
+    @Test
+    public void saveStudent_4() throws IOException {
         assertTrue(ctrl.saveStudent(s10));
+    }
+    @Test
+    public void saveStudent_5() throws IOException {
         assertTrue(ctrl.saveStudent(s11));
     }
 
     @Test
     public void saveStudentName() throws IOException {
         assertTrue(ctrl.saveStudent(s12));
+    }
+    @Test
+    public void saveStudentName_2() throws IOException {
         assertFalse(ctrl.saveStudent(s4));
+    }
+    @Test
+    public void saveStudentName_3() throws IOException {
         assertFalse(ctrl.saveStudent(s5));
+    }
+    @Test
+    public void saveStudentName_4() throws IOException {
         assertFalse(ctrl.saveStudent(s6));
     }
 
     @Test
     public void saveStudentRegNumber() throws IOException {
         assertTrue(ctrl.saveStudent(s13));
+    }
+    @Test
+    public void saveStudentRegNumber_2() throws IOException {
         assertFalse(ctrl.saveStudent(s7));
+    }
+    @Test
+    public void saveStudentRegNumber_3() throws IOException {
         assertFalse(ctrl.saveStudent(s8));
+    }
+    @Test
+    public void saveStudentRegNumber_4() throws IOException {
         assertFalse(ctrl.saveStudent(s9));
     }
 }
