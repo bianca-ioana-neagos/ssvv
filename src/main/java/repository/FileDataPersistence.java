@@ -51,7 +51,7 @@ public class FileDataPersistence {
     }
 
     // Ambiguous what field of "Student" should be passed
-    public void addGrade(String student, String labNumber, float grade)
+    public void addGrade(String student, int labNumber, float grade)
             throws IOException, NumberFormatException, ParseException {
         File fileA = new File(file);
         File fileB = new File("temp");
@@ -63,9 +63,9 @@ public class FileDataPersistence {
 
         while ((line = reader.readLine()) != null) {
             String[] temp = line.split(" ");
-            String fileLabNumber = temp[0];
+            int fileLabNumber = Integer.valueOf(temp[0]);
             String fileStudentNumber = temp[4];
-            if (fileLabNumber.equals(labNumber) && fileStudentNumber.equals(student)) {
+            if (fileLabNumber==labNumber && fileStudentNumber.equals(student)) {
                 Laboratory laboratory = new Laboratory(
                         Integer.valueOf(temp[0]), temp[1],
                         Integer.valueOf(temp[2]), temp[4]);
@@ -73,6 +73,7 @@ public class FileDataPersistence {
                 writer.write(laboratory.toString() + "\n");
             } else {
                 writer.write(line + "\n");
+
             }
         }
         writer.close();

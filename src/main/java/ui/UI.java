@@ -107,12 +107,13 @@ public class UI {
 
     private void addGrade() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String registrationNumber, labNumber;
+        String registrationNumber;
+        int labNumber;
         float grade = 0;
         System.out.println("Reg number: ");
         registrationNumber = br.readLine();
         System.out.println("Lab number: ");
-        labNumber = br.readLine();
+        labNumber = Integer.parseInt(br.readLine());
         try {
             System.out.println("Grade: ");
             String gradeString = br.readLine();

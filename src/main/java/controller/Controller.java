@@ -27,18 +27,6 @@ public class Controller {
         return studentPersistence;
     }
 
-    public void setStudentPersistence(FileDataPersistence studentPersistence) {
-        this.studentPersistence = studentPersistence;
-    }
-
-    public FileDataPersistence getLaboratoryPersistence() {
-        return laboratoryPersistence;
-    }
-
-    public void setLaboratoryPersistence(FileDataPersistence laboratoryPersistence) {
-        this.laboratoryPersistence = laboratoryPersistence;
-    }
-
     public boolean findOne(List<Student> students, String regNumber){
         boolean found = false;
         for (Student s: students) {
@@ -73,7 +61,7 @@ public class Controller {
         }
     }
 
-    public boolean addGrade(String student, String labNumber, float grade)
+    public boolean addGrade(String student, int labNumber, float grade)
             throws NumberFormatException, IOException, ParseException {
         if (Validator.validateGrade(grade)) {
             this.laboratoryPersistence.addGrade(student, labNumber, grade);
