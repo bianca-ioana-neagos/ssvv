@@ -1,0 +1,155 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+  <title>Coverage Report :: Student</title>
+  <style type="text/css">
+    @import "../../.css/coverage.css";
+  </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+<div class="breadCrumbs">
+    [ <a href="../../index.html">all classes</a> ]
+    [ <a href="../index.html">model</a> ]
+</div>
+
+<h1>Coverage Summary for Class: Student (model)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">Student</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    36.4%
+  </span>
+  <span class="absValue">
+    (4/ 11)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    22.9%
+  </span>
+  <span class="absValue">
+    (8/ 35)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<div class="sourceCode"><i>1</i>&nbsp;package model;
+<i>2</i>&nbsp;
+<i>3</i>&nbsp;public class Student {
+<i>4</i>&nbsp;    private String regNumber;
+<i>5</i>&nbsp;    private String name;
+<i>6</i>&nbsp;    private int group;
+<i>7</i>&nbsp;
+<b class="nc"><i>8</i>&nbsp;    public Student() {</b>
+<b class="nc"><i>9</i>&nbsp;    }</b>
+<i>10</i>&nbsp;
+<b class="fc"><i>11</i>&nbsp;    public Student(String regNumber, String name, int group) {</b>
+<b class="fc"><i>12</i>&nbsp;        this.regNumber = regNumber;</b>
+<b class="fc"><i>13</i>&nbsp;        this.name = name;</b>
+<b class="fc"><i>14</i>&nbsp;        this.group = group;</b>
+<b class="fc"><i>15</i>&nbsp;    }</b>
+<i>16</i>&nbsp;
+<i>17</i>&nbsp;    public String getRegNumber() {
+<b class="fc"><i>18</i>&nbsp;        return regNumber;</b>
+<i>19</i>&nbsp;    }
+<i>20</i>&nbsp;
+<i>21</i>&nbsp;    public void setRegNumber(String regNumber) {
+<b class="nc"><i>22</i>&nbsp;        this.regNumber = regNumber;</b>
+<b class="nc"><i>23</i>&nbsp;    }</b>
+<i>24</i>&nbsp;
+<i>25</i>&nbsp;    public String getName() {
+<b class="fc"><i>26</i>&nbsp;        return name;</b>
+<i>27</i>&nbsp;    }
+<i>28</i>&nbsp;
+<i>29</i>&nbsp;    public void setName(String name) {
+<b class="nc"><i>30</i>&nbsp;        this.name = name;</b>
+<b class="nc"><i>31</i>&nbsp;    }</b>
+<i>32</i>&nbsp;
+<i>33</i>&nbsp;    public int getGroup() {
+<b class="fc"><i>34</i>&nbsp;        return group;</b>
+<i>35</i>&nbsp;    }
+<i>36</i>&nbsp;
+<i>37</i>&nbsp;    public void setGroup(int group) {
+<b class="nc"><i>38</i>&nbsp;        this.group = group;</b>
+<b class="nc"><i>39</i>&nbsp;    }</b>
+<i>40</i>&nbsp;
+<i>41</i>&nbsp;    @Override
+<i>42</i>&nbsp;    public String toString() {
+<b class="nc"><i>43</i>&nbsp;        return regNumber + &quot; &quot; + name + &quot; &quot; + group;</b>
+<i>44</i>&nbsp;    }
+<i>45</i>&nbsp;
+<i>46</i>&nbsp;    @Override
+<i>47</i>&nbsp;    public int hashCode() {
+<b class="nc"><i>48</i>&nbsp;        final int prime = 31;</b>
+<b class="nc"><i>49</i>&nbsp;        int result = 1;</b>
+<b class="nc"><i>50</i>&nbsp;        result = prime * result</b>
+<b class="nc"><i>51</i>&nbsp;                + ((regNumber == null) ? 0 : regNumber.hashCode());</b>
+<b class="nc"><i>52</i>&nbsp;        return result;</b>
+<i>53</i>&nbsp;    }
+<i>54</i>&nbsp;
+<i>55</i>&nbsp;    @Override
+<i>56</i>&nbsp;    public boolean equals(Object obj) {
+<b class="nc"><i>57</i>&nbsp;        if (this == obj)</b>
+<b class="nc"><i>58</i>&nbsp;            return true;</b>
+<b class="nc"><i>59</i>&nbsp;        if (obj == null)</b>
+<b class="nc"><i>60</i>&nbsp;            return false;</b>
+<b class="nc"><i>61</i>&nbsp;        if (getClass() != obj.getClass())</b>
+<b class="nc"><i>62</i>&nbsp;            return false;</b>
+<b class="nc"><i>63</i>&nbsp;        Student other = (Student) obj;</b>
+<b class="nc"><i>64</i>&nbsp;        if (regNumber == null) {</b>
+<b class="nc"><i>65</i>&nbsp;            if (other.regNumber != null)</b>
+<b class="nc"><i>66</i>&nbsp;                return false;</b>
+<b class="nc"><i>67</i>&nbsp;        } else if (!regNumber.equals(other.regNumber))</b>
+<b class="nc"><i>68</i>&nbsp;            return false;</b>
+<b class="nc"><i>69</i>&nbsp;        return true;</b>
+<i>70</i>&nbsp;    }
+<i>71</i>&nbsp;
+<i>72</i>&nbsp;} 
+</div>
+</div>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2018-04-10 16:29</div>
+</div>
+</body>
+</html>
