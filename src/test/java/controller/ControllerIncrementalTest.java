@@ -49,7 +49,7 @@ public class ControllerIncrementalTest {
     @Test
     public void incremental() throws IOException, ParseException {
         assertTrue(ctrl.saveStudent(new Student("zxcc4321", "asdf fds", 234)));
-        assertTrue(ctrl.saveLaboratory(new Laboratory(4,"30/04/2018",5,grade, "zxcv4321")));
+        assertTrue(ctrl.saveLaboratory(new Laboratory(4,"30/04/2018",5,grade, "zxcc4321")));
         assertTrue(ctrl.addGrade("zxcc4321", 4, grade));
         assertEquals(2,ctrl.passedStudents().size());
     }
